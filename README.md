@@ -1,6 +1,6 @@
 # RAT-via-Telegram
 
-Windows Remote Administration Tool via Telegram | Originally created by <href src="github.com/Ritiek>Ritiek</href>
+Windows Remote Administration Tool via Telegram | Originally created by <href src="github.com/Ritiek">Ritiek</href>
 
 ### Why another one?
 
